@@ -3,7 +3,7 @@
 A 2D arcade game built with **C++ and OpenGL (GLUT)** as a Computer Graphics course project.
 
 Catch the falling yellow stars, avoid the red ones, and reach 500 points before the 60 seconds run out.
-
+[▶ Watch the gameplay demo](StarCatcherVideo.mp4)
 ## 🎮 Gameplay
 
 - Catch **yellow stars** to earn 10 points each.
